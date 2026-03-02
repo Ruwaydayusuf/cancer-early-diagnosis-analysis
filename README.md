@@ -5,14 +5,14 @@ Early cancer diagnosis significantly improves survival outcomes and reduces trea
 
 This project investigates how the percentage of cancers diagnosed at Stage 1 or 2 in England has changed over time.
 
-## 3. The Objective
+## 2. The Objective
    
 - Analyse trends in early-stage cancer diagnosis
 - Identify increases or declines over time
 - Quantify changes using percentage differences
 - Provide interpretation of possible contributing factors
 
-## 4. Dataset
+## 3. Dataset
    
 Source: Public NHS England dataset
 
