@@ -46,3 +46,8 @@ This project demonstrates how basic data analysis techniques using Python, panda
 - Matplotlib
 - Google Colab
 - GitHub
+
+
+  ## Visualisation
+
+![Early Cancer Diagnosis Trend](early_cancer_trend.png)
