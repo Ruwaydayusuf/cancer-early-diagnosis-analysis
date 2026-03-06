@@ -24,7 +24,12 @@ Variables included:
 - 95% confidence interval (lower and upper bounds)
 
 
-## 4. Key Findings
+ ## 5. Visualisation
+
+![Early Cancer Diagnosis Trend](early_cancer_trend.png)
+
+
+## 6. Key Findings
 
 The analysis of NHS England data shows that the percentage of cancers diagnosed at Stage 1 or Stage 2 has generally increased over time. Early-stage diagnosis is a critical indicator in cancer care because detecting cancer earlier significantly improves survival rates and reduces the complexity and cost of treatment.
 
@@ -39,6 +44,17 @@ Monitoring trends like this is important for healthcare planners and policymaker
 This project demonstrates how basic data analysis techniques using Python, pandas, and matplotlib can be used to explore healthcare datasets and generate meaningful insights about population health trends.
 
 
+## 7. Conclusion
+
+This project analysed NHS England data to examine trends in early-stage cancer diagnosis over time. The results indicate a gradual increase in the percentage of cancers diagnosed at Stage 1 or Stage 2, suggesting improvements in early detection within the healthcare system.
+
+Earlier diagnosis is critical in cancer care because it allows for more effective treatment options and significantly improves survival outcomes. The upward trend observed in the data may reflect the impact of national screening programmes, increased public awareness, and improvements in diagnostic pathways within the NHS.
+
+Although the data suggests positive progress, ongoing monitoring and analysis are important to ensure that early diagnosis rates continue to improve. Further analysis could explore differences across cancer types, regions, or demographic groups to better understand where additional interventions may be needed.
+
+Overall, this analysis demonstrates how data can be used to monitor healthcare performance and highlight important trends that inform public health decision-making.
+
+
 ## 5. Tools Used
 
 - Python
@@ -48,6 +64,4 @@ This project demonstrates how basic data analysis techniques using Python, panda
 - GitHub
 
 
-  ## Visualisation
-
-![Early Cancer Diagnosis Trend](early_cancer_trend.png)
+ 
